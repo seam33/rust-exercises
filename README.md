@@ -1,2 +1,3 @@
 # rust-exercises
-This repo contains basics exercises about Rust. 
+
+This repo contains basics exercises about Rust.

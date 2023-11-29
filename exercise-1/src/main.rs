@@ -1,5 +1,5 @@
 /*
-    Description: This is the most simpliest program in rust. The are some examples
+    Description: This is the simplest program in rust. The are some examples
     relatate to strings and numbers.
 
     Note: By default all variables in rust are inmutable, if you want to change that behavior, 
